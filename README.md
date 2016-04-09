@@ -4,5 +4,7 @@
 
 
 [构建神器Gradle](http://jiajixin.cn/2015/08/07/gradle-android/)
+
 [Gradle User Guide](https://docs.gradle.org/current/userguide/userguide.html)
+
 [Gradle Plugin User Guide](http://tools.android.com/tech-docs/new-build-system/user-guide)
